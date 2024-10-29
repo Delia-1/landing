@@ -1,0 +1,29 @@
+.div-links {
+  display: block;
+  background-color: rgb(50, 50, 50);
+  height: 200px;
+}
+
+
+.div-links p{
+display: block;
+/* border: 1px, solid, grey; */
+/* background-color: grey; */
+color: rgb(117, 115, 115);
+font-size: 15px;
+margin-block-end: 1em;
+margin-block-start: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;}
+
+.footer{
+  text-align: center;
+}
+
+.fa-brands{
+  padding: 0 8px;
+  font-size: 32px;
+  text-decoration: none;
+  color: #1EDD88;
+  margin-top: 65px;
+}
